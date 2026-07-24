@@ -1,0 +1,7008 @@
+{
+ "generatedAt": "2026-07-24T18:56:46.199Z",
+ "source": "OpenStreetMap (Overpass API) — © OpenStreetMap contributors, ODbL",
+ "bbox": "42.70,10.05,42.88,10.45",
+ "count": 158,
+ "namedCount": 111,
+ "beaches": [
+  {
+   "id": "way-577522940",
+   "name": "Cala Chiara",
+   "named": true,
+   "lat": 42.745333,
+   "lon": 10.314879,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 577522940,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 29 m",
+     "Parcheggio più vicino a 634 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 29,
+    "parkingDist": 634,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-507975385",
+   "name": "Cala dei frati",
+   "named": true,
+   "lat": 42.818177,
+   "lon": 10.318833,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Le Ghiaie",
+   "osm": {
+    "type": "way",
+    "id": 507975385,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 64 m",
+     "Parcheggio a 151 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 59 edifici entro 250 m"
+    ],
+    "services": [
+     "4 tra bar/ristoranti/chioschi entro 400 m",
+     "7 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 64,
+    "parkingDist": 151,
+    "resortsNear": 0,
+    "foodNear": 4
+   }
+  },
+  {
+   "id": "way-319401959",
+   "name": "Cala di Stella Mare",
+   "named": true,
+   "lat": 42.753457,
+   "lon": 10.313554,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Lacona",
+   "osm": {
+    "type": "way",
+    "id": 319401959,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 6,
+    "services": 5.4,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 71 m",
+     "Parcheggio più vicino a 427 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 17 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 71,
+    "parkingDist": 427,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "node-12246747303",
+   "name": "Cala Ginevra",
+   "named": true,
+   "lat": 42.741919,
+   "lon": 10.315713,
+   "surface": "rock",
+   "surfaceLabel": "roccia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "node",
+    "id": 12246747303,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 4.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 44 m",
+     "Parcheggio più vicino a 779 m"
+    ],
+    "beauty": [
+     "Fondo: roccia",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 44,
+    "parkingDist": 779,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-418312026",
+   "name": "Cala senza nome (vicino a Calabaroccia)",
+   "named": false,
+   "lat": 42.803912,
+   "lon": 10.43106,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Calabaroccia",
+   "osm": {
+    "type": "way",
+    "id": 418312026,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 63 m",
+     "Parcheggio più vicino a 894 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 14 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 63,
+    "parkingDist": 894,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1000616235",
+   "name": "Cala senza nome (vicino a Capo ai Pini)",
+   "named": false,
+   "lat": 42.761104,
+   "lon": 10.331715,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo ai Pini",
+   "osm": {
+    "type": "way",
+    "id": 1000616235,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.6,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 111 m",
+     "Parcheggio più vicino a 611 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 111,
+    "parkingDist": 611,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-612196692",
+   "name": "Cala senza nome (vicino a Capo d'Arco)",
+   "named": false,
+   "lat": 42.77827,
+   "lon": 10.434279,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo d'Arco",
+   "osm": {
+    "type": "way",
+    "id": 612196692,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 17 m",
+     "Parcheggio a 292 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 18 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 17,
+    "parkingDist": 292,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1000616233",
+   "name": "Cala senza nome (vicino a Capo Marinaro)",
+   "named": false,
+   "lat": 42.761678,
+   "lon": 10.326087,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Marinaro",
+   "osm": {
+    "type": "way",
+    "id": 1000616233,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.1,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 200 m",
+     "Parcheggio più vicino a 790 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 4 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 200,
+    "parkingDist": 790,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1000616234",
+   "name": "Cala senza nome (vicino a Capo Marinaro)",
+   "named": false,
+   "lat": 42.761354,
+   "lon": 10.326977,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Marinaro",
+   "osm": {
+    "type": "way",
+    "id": 1000616234,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 233 m",
+     "Parcheggio più vicino a 836 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 233,
+    "parkingDist": 836,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-418316230",
+   "name": "Cala senza nome (vicino a Capo Ortano)",
+   "named": false,
+   "lat": 42.802772,
+   "lon": 10.433705,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Ortano",
+   "osm": {
+    "type": "way",
+    "id": 418316230,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.7,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 97 m",
+     "Parcheggio più vicino a 1055 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 12 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 97,
+    "parkingDist": 1055,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-418262885",
+   "name": "Cala senza nome (vicino a Capo Scandelli)",
+   "named": false,
+   "lat": 42.865457,
+   "lon": 10.420672,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Scandelli",
+   "osm": {
+    "type": "way",
+    "id": 418262885,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 7.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 94 m",
+     "Parcheggio a 149 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 71 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 94,
+    "parkingDist": 149,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-1331386570",
+   "name": "Cala senza nome (vicino a Chiessi)",
+   "named": false,
+   "lat": 42.759635,
+   "lon": 10.111286,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Chiessi",
+   "osm": {
+    "type": "way",
+    "id": 1331386570,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 12 m",
+     "Parcheggio a 95 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 79 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "6 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 12,
+    "parkingDist": 95,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-102557107",
+   "name": "Cala senza nome (vicino a Colle a Vita)",
+   "named": false,
+   "lat": 42.86287,
+   "lon": 10.404498,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Colle a Vita",
+   "osm": {
+    "type": "way",
+    "id": 102557107,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.5,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 138 m",
+     "Parcheggio più vicino a 1184 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 138,
+    "parkingDist": 1184,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-234549600",
+   "name": "Cala senza nome (vicino a Ghiaieto)",
+   "named": false,
+   "lat": 42.756708,
+   "lon": 10.297562,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Ghiaieto",
+   "osm": {
+    "type": "way",
+    "id": 234549600,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.5,
+    "beauty": 5.5,
+    "services": 6.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 123 m",
+     "Parcheggio più vicino a 580 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 123,
+    "parkingDist": 580,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-234549604",
+   "name": "Cala senza nome (vicino a Ghiaieto)",
+   "named": false,
+   "lat": 42.754073,
+   "lon": 10.292325,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Ghiaieto",
+   "osm": {
+    "type": "way",
+    "id": 234549604,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 81 m",
+     "Parcheggio più vicino a 1027 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 81,
+    "parkingDist": 1027,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1455799268",
+   "name": "Cala senza nome (vicino a Il Palazzo)",
+   "named": false,
+   "lat": 42.772557,
+   "lon": 10.418308,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Il Palazzo",
+   "osm": {
+    "type": "way",
+    "id": 1455799268,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 8.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 75 m",
+     "Parcheggio a 160 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 20 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 75,
+    "parkingDist": 160,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-1323456050",
+   "name": "Cala senza nome (vicino a Magazzinetto Foresi)",
+   "named": false,
+   "lat": 42.751642,
+   "lon": 10.314181,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 1323456050,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.6,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 279 m",
+     "Parcheggio più vicino a 628 m",
+     "Raggiungibile a piedi via sentiero (~279 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 279,
+    "parkingDist": 628,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1323456053",
+   "name": "Cala senza nome (vicino a Magazzinetto Foresi)",
+   "named": false,
+   "lat": 42.747161,
+   "lon": 10.324331,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 1323456053,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 98 m",
+     "Parcheggio a 167 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 98,
+    "parkingDist": 167,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1323456055",
+   "name": "Cala senza nome (vicino a Magazzinetto Foresi)",
+   "named": false,
+   "lat": 42.750238,
+   "lon": 10.322205,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 1323456055,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.7,
+    "beauty": 6.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 99 m",
+     "Parcheggio più vicino a 362 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 99,
+    "parkingDist": 362,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1323456057",
+   "name": "Cala senza nome (vicino a Magazzinetto Foresi)",
+   "named": false,
+   "lat": 42.75063,
+   "lon": 10.321757,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 1323456057,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 6.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 69 m",
+     "Parcheggio più vicino a 408 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 69,
+    "parkingDist": 408,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1077981345",
+   "name": "Cala senza nome (vicino a Marciana Marina)",
+   "named": false,
+   "lat": 42.806543,
+   "lon": 10.197446,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Marciana Marina",
+   "osm": {
+    "type": "way",
+    "id": 1077981345,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 37 m",
+     "Parcheggio a 34 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 108 edifici entro 250 m"
+    ],
+    "services": [
+     "25 tra bar/ristoranti/chioschi entro 400 m",
+     "8 tra servizi igienici/acqua potabile entro 400 m",
+     "21 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 37,
+    "parkingDist": 34,
+    "resortsNear": 0,
+    "foodNear": 25
+   }
+  },
+  {
+   "id": "relation-15616473",
+   "name": "Cala senza nome (vicino a Mola)",
+   "named": false,
+   "lat": 42.761394,
+   "lon": 10.387903,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Mola",
+   "osm": {
+    "type": "relation",
+    "id": 15616473,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 27 m",
+     "Parcheggio a 214 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 23 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 27,
+    "parkingDist": 214,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-696931072",
+   "name": "Cala senza nome (vicino a Morcone)",
+   "named": false,
+   "lat": 42.729788,
+   "lon": 10.374257,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Morcone",
+   "osm": {
+    "type": "way",
+    "id": 696931072,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 51 m",
+     "Parcheggio a 45 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 52 edifici entro 250 m"
+    ],
+    "services": [
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "6 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 51,
+    "parkingDist": 45,
+    "resortsNear": 0,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "relation-19632251",
+   "name": "Cala senza nome (vicino a Morcone)",
+   "named": false,
+   "lat": 42.731717,
+   "lon": 10.372935,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Morcone",
+   "osm": {
+    "type": "relation",
+    "id": 19632251,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 9.4,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 47 m",
+     "Parcheggio a 138 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 68 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 47,
+    "parkingDist": 138,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-78723715",
+   "name": "Cala senza nome (vicino a Nisporto)",
+   "named": false,
+   "lat": 42.821153,
+   "lon": 10.371788,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Nisporto",
+   "osm": {
+    "type": "way",
+    "id": 78723715,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 31 m",
+     "Parcheggio più vicino a 706 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 31,
+    "parkingDist": 706,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1000608294",
+   "name": "Cala senza nome (vicino a Ortano)",
+   "named": false,
+   "lat": 42.790107,
+   "lon": 10.432489,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Ortano",
+   "osm": {
+    "type": "way",
+    "id": 1000608294,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 81 m",
+     "Parcheggio più vicino a 641 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 81,
+    "parkingDist": 641,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1052062981",
+   "name": "Cala senza nome (vicino a Peducelli)",
+   "named": false,
+   "lat": 42.736863,
+   "lon": 10.368105,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Peducelli",
+   "osm": {
+    "type": "way",
+    "id": 1052062981,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 123 m",
+     "Parcheggio a 174 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 35 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 123,
+    "parkingDist": 174,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-219893184",
+   "name": "Cala senza nome (vicino a Pietre Rosse)",
+   "named": false,
+   "lat": 42.838984,
+   "lon": 10.386502,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pietre Rosse",
+   "osm": {
+    "type": "way",
+    "id": 219893184,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 5.9,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 703 m",
+     "Parcheggio più vicino a 1531 m",
+     "Raggiungibile a piedi via sentiero (~703 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 703,
+    "parkingDist": 1531,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-219893185",
+   "name": "Cala senza nome (vicino a Pietre Rosse)",
+   "named": false,
+   "lat": 42.840821,
+   "lon": 10.388003,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pietre Rosse",
+   "osm": {
+    "type": "way",
+    "id": 219893185,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 4.6,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 919 m",
+     "Parcheggio più vicino a 1765 m",
+     "Raggiungibile a piedi via sentiero (~919 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 919,
+    "parkingDist": 1765,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-819744674",
+   "name": "Cala senza nome (vicino a Pomonte)",
+   "named": false,
+   "lat": 42.743631,
+   "lon": 10.122228,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 819744674,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 6,
+    "services": 6.5,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 66 m",
+     "Parcheggio più vicino a 402 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 66,
+    "parkingDist": 402,
+    "resortsNear": 1,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1375358075",
+   "name": "Cala senza nome (vicino a Pomonte)",
+   "named": false,
+   "lat": 42.748082,
+   "lon": 10.118764,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 1375358075,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 10,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 25 m",
+     "Parcheggio a 77 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 95 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "12 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 25,
+    "parkingDist": 77,
+    "resortsNear": 1,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "way-1420754753",
+   "name": "Cala senza nome (vicino a Pomonte)",
+   "named": false,
+   "lat": 42.744302,
+   "lon": 10.121599,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 1420754753,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 9.6,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 56 m",
+     "Parcheggio più vicino a 312 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "6 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 56,
+    "parkingDist": 312,
+    "resortsNear": 1,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1420754754",
+   "name": "Cala senza nome (vicino a Pomonte)",
+   "named": false,
+   "lat": 42.744859,
+   "lon": 10.120926,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 1420754754,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 62 m",
+     "Parcheggio a 229 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 13 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "7 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 62,
+    "parkingDist": 229,
+    "resortsNear": 1,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "relation-15608664",
+   "name": "Cala senza nome (vicino a Porto Azzurro)",
+   "named": false,
+   "lat": 42.762686,
+   "lon": 10.392658,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Porto Azzurro",
+   "osm": {
+    "type": "relation",
+    "id": 15608664,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 44 m",
+     "Parcheggio a 204 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 19 edifici entro 250 m"
+    ],
+    "services": [
+     "10 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 44,
+    "parkingDist": 204,
+    "resortsNear": 0,
+    "foodNear": 10
+   }
+  },
+  {
+   "id": "way-1354981444",
+   "name": "Cala senza nome (vicino a Portoferraio)",
+   "named": false,
+   "lat": 42.812615,
+   "lon": 10.331998,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Portoferraio",
+   "osm": {
+    "type": "way",
+    "id": 1354981444,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 37 m",
+     "Parcheggio a 73 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 92 edifici entro 250 m"
+    ],
+    "services": [
+     "31 tra bar/ristoranti/chioschi entro 400 m",
+     "8 tra servizi igienici/acqua potabile entro 400 m",
+     "16 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 37,
+    "parkingDist": 73,
+    "resortsNear": 0,
+    "foodNear": 31
+   }
+  },
+  {
+   "id": "way-310834226",
+   "name": "Cala senza nome (vicino a Punta del Cotoncello)",
+   "named": false,
+   "lat": 42.807502,
+   "lon": 10.147431,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta del Cotoncello",
+   "osm": {
+    "type": "way",
+    "id": 310834226,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.7,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 91 m",
+     "Parcheggio più vicino a 542 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 26 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 91,
+    "parkingDist": 542,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-696443499",
+   "name": "Cala senza nome (vicino a Punta della Calamita)",
+   "named": false,
+   "lat": 42.713279,
+   "lon": 10.399124,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta della Calamita",
+   "osm": {
+    "type": "way",
+    "id": 696443499,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 70 m",
+     "Parcheggio più vicino a 529 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 4 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 70,
+    "parkingDist": 529,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-696745809",
+   "name": "Cala senza nome (vicino a Punta delle Ciarpe)",
+   "named": false,
+   "lat": 42.720419,
+   "lon": 10.375794,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta delle Ciarpe",
+   "osm": {
+    "type": "way",
+    "id": 696745809,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7.5,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 203 m",
+     "Parcheggio a 184 m",
+     "Raggiungibile a piedi via sentiero (~203 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 5 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 203,
+    "parkingDist": 184,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-590212460",
+   "name": "Cala senza nome (vicino a Punta di Calanova)",
+   "named": false,
+   "lat": 42.745284,
+   "lon": 10.409767,
+   "surface": "fine_gravel",
+   "surfaceLabel": "ghiaia fine",
+   "nearPlace": "Punta di Calanova",
+   "osm": {
+    "type": "way",
+    "id": 590212460,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7.5,
+    "services": 7.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 54 m",
+     "Parcheggio più vicino a 308 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia fine",
+     "Contesto urbanizzato: 14 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 54,
+    "parkingDist": 308,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-543506491",
+   "name": "Cala senza nome (vicino a Punta Falconaia)",
+   "named": false,
+   "lat": 42.81763,
+   "lon": 10.367517,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Falconaia",
+   "osm": {
+    "type": "way",
+    "id": 543506491,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.2,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 187 m",
+     "Parcheggio più vicino a 748 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 5 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 187,
+    "parkingDist": 748,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-32599823",
+   "name": "Cala senza nome (vicino a Punta Nera)",
+   "named": false,
+   "lat": 42.805871,
+   "lon": 10.199344,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Nera",
+   "osm": {
+    "type": "way",
+    "id": 32599823,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 49 m",
+     "Parcheggio a 36 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 118 edifici entro 250 m"
+    ],
+    "services": [
+     "19 tra bar/ristoranti/chioschi entro 400 m",
+     "7 tra servizi igienici/acqua potabile entro 400 m",
+     "18 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 49,
+    "parkingDist": 36,
+    "resortsNear": 0,
+    "foodNear": 19
+   }
+  },
+  {
+   "id": "way-215054785",
+   "name": "Cala senza nome (vicino a Punta Nera)",
+   "named": false,
+   "lat": 42.7654,
+   "lon": 10.104863,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Nera",
+   "osm": {
+    "type": "way",
+    "id": 215054785,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.5,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 135 m",
+     "Parcheggio più vicino a 794 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 135,
+    "parkingDist": 794,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-591633064",
+   "name": "Cala senza nome (vicino a Punta Nera)",
+   "named": false,
+   "lat": 42.738357,
+   "lon": 10.426489,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Nera",
+   "osm": {
+    "type": "way",
+    "id": 591633064,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.2,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 175 m",
+     "Parcheggio più vicino a 1248 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 175,
+    "parkingDist": 1248,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-591633074",
+   "name": "Cala senza nome (vicino a Punta Nera)",
+   "named": false,
+   "lat": 42.738725,
+   "lon": 10.426045,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Nera",
+   "osm": {
+    "type": "way",
+    "id": 591633074,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.4,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 139 m",
+     "Parcheggio più vicino a 1198 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 139,
+    "parkingDist": 1198,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-695813357",
+   "name": "Cala senza nome (vicino a Punta Pareti)",
+   "named": false,
+   "lat": 42.726599,
+   "lon": 10.373871,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Pareti",
+   "osm": {
+    "type": "way",
+    "id": 695813357,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 9.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 38 m",
+     "Parcheggio a 149 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 32 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 38,
+    "parkingDist": 149,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-696931070",
+   "name": "Cala senza nome (vicino a Punta Pareti)",
+   "named": false,
+   "lat": 42.72653,
+   "lon": 10.373153,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Pareti",
+   "osm": {
+    "type": "way",
+    "id": 696931070,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 8.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 97 m",
+     "Parcheggio a 207 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 97,
+    "parkingDist": 207,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-698045675",
+   "name": "Cala senza nome (vicino a Punta Pareti)",
+   "named": false,
+   "lat": 42.725248,
+   "lon": 10.373948,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Pareti",
+   "osm": {
+    "type": "way",
+    "id": 698045675,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 8.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 54 m",
+     "Parcheggio a 241 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 17 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 54,
+    "parkingDist": 241,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-589973685",
+   "name": "Cala senza nome (vicino a Punta Perla)",
+   "named": false,
+   "lat": 42.754484,
+   "lon": 10.409048,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Perla",
+   "osm": {
+    "type": "way",
+    "id": 589973685,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7.5,
+    "services": 5.8,
+    "free": 8
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 18 m",
+     "Parcheggio più vicino a 367 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 18,
+    "parkingDist": 367,
+    "resortsNear": 1,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-596112302",
+   "name": "Cala senza nome (vicino a Saline delle Prade)",
+   "named": false,
+   "lat": 42.798097,
+   "lon": 10.352133,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Saline delle Prade",
+   "osm": {
+    "type": "way",
+    "id": 596112302,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 75 m",
+     "Parcheggio a 286 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 15 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 75,
+    "parkingDist": 286,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-390805436",
+   "name": "Cala senza nome (vicino a Santa Fine)",
+   "named": false,
+   "lat": 42.817307,
+   "lon": 10.330774,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Santa Fine",
+   "osm": {
+    "type": "way",
+    "id": 390805436,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 61 m",
+     "Parcheggio a 58 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 73 edifici entro 250 m"
+    ],
+    "services": [
+     "29 tra bar/ristoranti/chioschi entro 400 m",
+     "6 tra servizi igienici/acqua potabile entro 400 m",
+     "7 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 61,
+    "parkingDist": 58,
+    "resortsNear": 0,
+    "foodNear": 29
+   }
+  },
+  {
+   "id": "way-527288979",
+   "name": "Cala senza nome (vicino a Viticcio)",
+   "named": false,
+   "lat": 42.817168,
+   "lon": 10.275243,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Viticcio",
+   "osm": {
+    "type": "way",
+    "id": 527288979,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 42 m",
+     "Parcheggio a 136 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 49 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 42,
+    "parkingDist": 136,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-120031361",
+   "name": "Calanova",
+   "named": true,
+   "lat": 42.743307,
+   "lon": 10.41292,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta di Calanova",
+   "osm": {
+    "type": "way",
+    "id": 120031361,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 9,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 16 m",
+     "Parcheggio a 33 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 16,
+    "parkingDist": 33,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-38023183",
+   "name": "Enfola",
+   "named": true,
+   "lat": 42.824414,
+   "lon": 10.269208,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta di Sansone",
+   "osm": {
+    "type": "way",
+    "id": 38023183,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 47 m",
+     "Parcheggio a 49 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 33 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "7 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 47,
+    "parkingDist": 49,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-120031298",
+   "name": "Ferrato",
+   "named": true,
+   "lat": 42.745719,
+   "lon": 10.408386,
+   "surface": "fine_gravel",
+   "surfaceLabel": "ghiaia fine",
+   "nearPlace": "Punta di Calanova",
+   "osm": {
+    "type": "way",
+    "id": 120031298,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7.5,
+    "services": 7.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 66 m",
+     "Parcheggio a 261 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia fine",
+     "Contesto urbanizzato: 27 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 66,
+    "parkingDist": 261,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-112393617",
+   "name": "Galenzana",
+   "named": true,
+   "lat": 42.735221,
+   "lon": 10.236239,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Bardella",
+   "osm": {
+    "type": "way",
+    "id": 112393617,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 10,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 79 m",
+     "Parcheggio più vicino a 782 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 79,
+    "parkingDist": 782,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-27358654",
+   "name": "Innamorata",
+   "named": true,
+   "lat": 42.722979,
+   "lon": 10.376783,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Innamorata",
+   "osm": {
+    "type": "way",
+    "id": 27358654,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 100 m",
+     "Parcheggio a 150 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 31 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 100,
+    "parkingDist": 150,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-610589476",
+   "name": "La Crocetta",
+   "named": true,
+   "lat": 42.806212,
+   "lon": 10.206388,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta della Crocetta",
+   "osm": {
+    "type": "way",
+    "id": 610589476,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 31 m",
+     "Parcheggio più vicino a 422 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 31,
+    "parkingDist": 422,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-32599822",
+   "name": "La Fenicia (pebbles)",
+   "named": true,
+   "lat": 42.809217,
+   "lon": 10.193135,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta del Nasuto",
+   "osm": {
+    "type": "way",
+    "id": 32599822,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 49 m",
+     "Parcheggio a 72 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 29 edifici entro 250 m"
+    ],
+    "services": [
+     "7 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "7 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 49,
+    "parkingDist": 72,
+    "resortsNear": 0,
+    "foodNear": 7
+   }
+  },
+  {
+   "id": "way-1154522350",
+   "name": "La Pianotta",
+   "named": true,
+   "lat": 42.763579,
+   "lon": 10.39944,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Porto Azzurro",
+   "osm": {
+    "type": "way",
+    "id": 1154522350,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 25 m",
+     "Parcheggio a 53 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 44 edifici entro 250 m"
+    ],
+    "services": [
+     "37 tra bar/ristoranti/chioschi entro 400 m",
+     "3 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 25,
+    "parkingDist": 53,
+    "resortsNear": 0,
+    "foodNear": 37
+   }
+  },
+  {
+   "id": "way-1154522351",
+   "name": "La Rossa",
+   "named": true,
+   "lat": 42.764376,
+   "lon": 10.39555,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Porto Azzurro",
+   "osm": {
+    "type": "way",
+    "id": 1154522351,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 28 m",
+     "Parcheggio a 190 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 99 edifici entro 250 m"
+    ],
+    "services": [
+     "40 tra bar/ristoranti/chioschi entro 400 m",
+     "3 tra servizi igienici/acqua potabile entro 400 m",
+     "8 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 28,
+    "parkingDist": 190,
+    "resortsNear": 0,
+    "foodNear": 40
+   }
+  },
+  {
+   "id": "way-28491117",
+   "name": "Le Calanchiole",
+   "named": true,
+   "lat": 42.758506,
+   "lon": 10.357989,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Lido",
+   "osm": {
+    "type": "way",
+    "id": 28491117,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 9.6,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 48 m",
+     "Parcheggio a 153 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 29 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 48,
+    "parkingDist": 153,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "node-5971629548",
+   "name": "Le Piscine - spiaggia naturista",
+   "named": true,
+   "lat": 42.733752,
+   "lon": 10.170922,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Seccheto",
+   "osm": {
+    "type": "node",
+    "id": 5971629548,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 53 m",
+     "Parcheggio a 49 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 53,
+    "parkingDist": 49,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-28491141",
+   "name": "Lido di Capoliveri",
+   "named": true,
+   "lat": 42.760144,
+   "lon": 10.355348,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Lido",
+   "osm": {
+    "type": "way",
+    "id": 28491141,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 63 m",
+     "Parcheggio a 180 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 34 edifici entro 250 m"
+    ],
+    "services": [
+     "4 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "5 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 63,
+    "parkingDist": 180,
+    "resortsNear": 0,
+    "foodNear": 4
+   }
+  },
+  {
+   "id": "way-215055433",
+   "name": "Mortigliana",
+   "named": true,
+   "lat": 42.786608,
+   "lon": 10.104285,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Sedia di Napoleone",
+   "osm": {
+    "type": "way",
+    "id": 215055433,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.5,
+    "beauty": 8.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 285 m",
+     "Parcheggio più vicino a 683 m",
+     "Raggiungibile a piedi via sentiero (~285 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 285,
+    "parkingDist": 683,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-225282206",
+   "name": "Ottonella",
+   "named": true,
+   "lat": 42.803979,
+   "lon": 10.361644,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "La Concia",
+   "osm": {
+    "type": "way",
+    "id": 225282206,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 5.5,
+    "services": 8.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 63 m",
+     "Parcheggio più vicino a 354 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 63,
+    "parkingDist": 354,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-119746713",
+   "name": "Pareti",
+   "named": true,
+   "lat": 42.728162,
+   "lon": 10.3753,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pareti",
+   "osm": {
+    "type": "way",
+    "id": 119746713,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 9.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 45 m",
+     "Parcheggio a 32 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 55 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 45,
+    "parkingDist": 32,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-213071348",
+   "name": "Patresi Mare",
+   "named": true,
+   "lat": 42.792114,
+   "lon": 10.109419,
+   "surface": "stone",
+   "surfaceLabel": "pietre",
+   "nearPlace": "Punta Polveraia",
+   "osm": {
+    "type": "way",
+    "id": 213071348,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 4.5,
+    "services": 5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 76 m",
+     "Parcheggio a 211 m"
+    ],
+    "beauty": [
+     "Fondo: pietre",
+     "Contesto urbanizzato: 10 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 76,
+    "parkingDist": 211,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-213071349",
+   "name": "Patresi Mare",
+   "named": true,
+   "lat": 42.792821,
+   "lon": 10.109867,
+   "surface": "rock",
+   "surfaceLabel": "roccia",
+   "nearPlace": "Punta Polveraia",
+   "osm": {
+    "type": "way",
+    "id": 213071349,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 4,
+    "services": 5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 44 m",
+     "Parcheggio a 127 m"
+    ],
+    "beauty": [
+     "Fondo: roccia",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 44,
+    "parkingDist": 127,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-32940293",
+   "name": "Procchio",
+   "named": true,
+   "lat": 42.790791,
+   "lon": 10.245093,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Guardiola",
+   "osm": {
+    "type": "way",
+    "id": 32940293,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.5,
+    "beauty": 10,
+    "services": 8.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 287 m",
+     "Parcheggio più vicino a 345 m",
+     "Raggiungibile a piedi via sentiero (~287 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "4 tra bar/ristoranti/chioschi entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 287,
+    "parkingDist": 345,
+    "resortsNear": 0,
+    "foodNear": 4
+   }
+  },
+  {
+   "id": "way-39161567",
+   "name": "Re di Noce",
+   "named": true,
+   "lat": 42.789385,
+   "lon": 10.228195,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Spartaia",
+   "osm": {
+    "type": "way",
+    "id": 39161567,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 26 m",
+     "Parcheggio a 134 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 26,
+    "parkingDist": 134,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-69218264",
+   "name": "Seccheto",
+   "named": true,
+   "lat": 42.736156,
+   "lon": 10.176606,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Seccheto",
+   "osm": {
+    "type": "way",
+    "id": 69218264,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 48 m",
+     "Parcheggio a 160 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 80 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 48,
+    "parkingDist": 160,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-120031293",
+   "name": "Spaggia di Istia",
+   "named": true,
+   "lat": 42.743099,
+   "lon": 10.415071,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta di Calanova",
+   "osm": {
+    "type": "way",
+    "id": 120031293,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 28 m",
+     "Parcheggio a 199 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 28,
+    "parkingDist": 199,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-167240804",
+   "name": "Spartaia",
+   "named": true,
+   "lat": 42.787503,
+   "lon": 10.236651,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Spartaia",
+   "osm": {
+    "type": "way",
+    "id": 167240804,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 95 m",
+     "Parcheggio a 221 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 37 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 95,
+    "parkingDist": 221,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-107773635",
+   "name": "Spiagga del Ginepro",
+   "named": true,
+   "lat": 42.724463,
+   "lon": 10.43375,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Bianca",
+   "osm": {
+    "type": "way",
+    "id": 107773635,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 233 m",
+     "Parcheggio più vicino a 777 m",
+     "Raggiungibile a piedi via sentiero (~233 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 233,
+    "parkingDist": 777,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-70559221",
+   "name": "Spiagga di Barbarossa",
+   "named": true,
+   "lat": 42.769334,
+   "lon": 10.407325,
+   "surface": "fine_gravel",
+   "surfaceLabel": "ghiaia fine",
+   "nearPlace": "Capo Bianco",
+   "osm": {
+    "type": "way",
+    "id": 70559221,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 9,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 34 m",
+     "Parcheggio a 134 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia fine",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 37 edifici entro 250 m"
+    ],
+    "services": [
+     "5 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 34,
+    "parkingDist": 134,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "relation-15787218",
+   "name": "Spiagga di Naregno",
+   "named": true,
+   "lat": 42.755177,
+   "lon": 10.404049,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Naregno",
+   "osm": {
+    "type": "relation",
+    "id": 15787218,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 0
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 57 m",
+     "Parcheggio a 187 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 38 edifici entro 250 m"
+    ],
+    "services": [
+     "7 stabilimenti balneari (lettini/ombrelloni) entro 400 m",
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "7 stabilimenti balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 57,
+    "parkingDist": 187,
+    "resortsNear": 7,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-182250500",
+   "name": "Spiagga di Reale",
+   "named": true,
+   "lat": 42.770939,
+   "lon": 10.415856,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Il Palazzo",
+   "osm": {
+    "type": "way",
+    "id": 182250500,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 8.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 34 m",
+     "Parcheggio a 109 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 36 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 34,
+    "parkingDist": 109,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-120030212",
+   "name": "Spiagga di Remaiolo",
+   "named": true,
+   "lat": 42.715957,
+   "lon": 10.412954,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Rossa",
+   "osm": {
+    "type": "way",
+    "id": 120030212,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 33 m",
+     "Parcheggio più vicino a 681 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 33,
+    "parkingDist": 681,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-120030204",
+   "name": "Spiagga di Vetrangoli",
+   "named": true,
+   "lat": 42.716628,
+   "lon": 10.410278,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Rossa",
+   "osm": {
+    "type": "way",
+    "id": 120030204,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 10,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 232 m",
+     "Parcheggio più vicino a 828 m",
+     "Raggiungibile a piedi via sentiero (~232 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 232,
+    "parkingDist": 828,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-695813937",
+   "name": "Spiagga Le Francesche",
+   "named": true,
+   "lat": 42.713905,
+   "lon": 10.392193,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Capo le Francesche",
+   "osm": {
+    "type": "way",
+    "id": 695813937,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.6,
+    "beauty": 8.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 283 m",
+     "Parcheggio più vicino a 464 m",
+     "Raggiungibile a piedi via sentiero (~283 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 283,
+    "parkingDist": 464,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-182246781",
+   "name": "Spiagga Margidore",
+   "named": true,
+   "lat": 42.760156,
+   "lon": 10.32118,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Marinaro",
+   "osm": {
+    "type": "way",
+    "id": 182246781,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.8,
+    "beauty": 6,
+    "services": 7.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 242 m",
+     "Parcheggio più vicino a 365 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 242,
+    "parkingDist": 365,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-1097977005",
+   "name": "Spiaggetta del Porticciolo",
+   "named": true,
+   "lat": 42.799288,
+   "lon": 10.257382,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Porticciolo",
+   "osm": {
+    "type": "way",
+    "id": 1097977005,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 7.9,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 386 m",
+     "Parcheggio più vicino a 839 m",
+     "Raggiungibile a piedi via sentiero (~386 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 386,
+    "parkingDist": 839,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1354286606",
+   "name": "Spiaggetta della Rena",
+   "named": true,
+   "lat": 42.824513,
+   "lon": 10.267,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Saponetta",
+   "osm": {
+    "type": "way",
+    "id": 1354286606,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 9.6,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 66 m",
+     "Parcheggio a 191 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "5 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 66,
+    "parkingDist": 191,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "relation-9655800",
+   "name": "Spiaggia Cala del Pisciatoio",
+   "named": true,
+   "lat": 42.86133,
+   "lon": 10.404132,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Colle a Vita",
+   "osm": {
+    "type": "relation",
+    "id": 9655800,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.1,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 188 m",
+     "Parcheggio più vicino a 1164 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 188,
+    "parkingDist": 1164,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "relation-9655935",
+   "name": "Spiaggia Cala dell'Inferno",
+   "named": true,
+   "lat": 42.84374,
+   "lon": 10.390655,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pietre Rosse",
+   "osm": {
+    "type": "relation",
+    "id": 9655935,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 5.5,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 778 m",
+     "Parcheggio più vicino a 2148 m",
+     "Raggiungibile a piedi via sentiero (~778 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 778,
+    "parkingDist": 2148,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-183145357",
+   "name": "Spiaggia Cala Seregola",
+   "named": true,
+   "lat": 42.841875,
+   "lon": 10.441631,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta di Rialbano",
+   "osm": {
+    "type": "way",
+    "id": 183145357,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 38 m",
+     "Parcheggio a 66 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 38,
+    "parkingDist": 66,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-177201224",
+   "name": "Spiaggia Colle della Palombaia",
+   "named": true,
+   "lat": 42.735771,
+   "lon": 10.20398,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Colle di Palombaia",
+   "osm": {
+    "type": "way",
+    "id": 177201224,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.1,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 187 m",
+     "Parcheggio più vicino a 408 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 21 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 187,
+    "parkingDist": 408,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-182029379",
+   "name": "Spiaggia degli Acquarilli",
+   "named": true,
+   "lat": 42.763261,
+   "lon": 10.334397,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Capo Norsi",
+   "osm": {
+    "type": "way",
+    "id": 182029379,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.4,
+    "beauty": 10,
+    "services": 5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 146 m",
+     "Parcheggio più vicino a 301 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 146,
+    "parkingDist": 301,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1391452961",
+   "name": "Spiaggia dei Salandri",
+   "named": true,
+   "lat": 42.738334,
+   "lon": 10.234822,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Bardella",
+   "osm": {
+    "type": "way",
+    "id": 1391452961,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 61 m",
+     "Parcheggio più vicino a 419 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 8 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 61,
+    "parkingDist": 419,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-259101283",
+   "name": "Spiaggia dei Topinetti",
+   "named": true,
+   "lat": 42.836854,
+   "lon": 10.438123,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta di Rialbano",
+   "osm": {
+    "type": "way",
+    "id": 259101283,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 46 m",
+     "Parcheggio più vicino a 386 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 46,
+    "parkingDist": 386,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-43405218",
+   "name": "Spiaggia del Cannello",
+   "named": true,
+   "lat": 42.714571,
+   "lon": 10.404105,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta Rossa",
+   "osm": {
+    "type": "way",
+    "id": 43405218,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.9,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 222 m",
+     "Parcheggio più vicino a 758 m",
+     "Raggiungibile a piedi via sentiero (~222 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 222,
+    "parkingDist": 758,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "node-9554352611",
+   "name": "Spiaggia del Direttore",
+   "named": true,
+   "lat": 42.847334,
+   "lon": 10.442782,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Pero",
+   "osm": {
+    "type": "node",
+    "id": 9554352611,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.8,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 251 m",
+     "Parcheggio più vicino a 556 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 4 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 251,
+    "parkingDist": 556,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1354981363",
+   "name": "Spiaggia del Grigolo",
+   "named": true,
+   "lat": 42.813775,
+   "lon": 10.333296,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Portoferraio",
+   "osm": {
+    "type": "way",
+    "id": 1354981363,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 40 m",
+     "Parcheggio a 84 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 138 edifici entro 250 m"
+    ],
+    "services": [
+     "31 tra bar/ristoranti/chioschi entro 400 m",
+     "7 tra servizi igienici/acqua potabile entro 400 m",
+     "15 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 40,
+    "parkingDist": 84,
+    "resortsNear": 0,
+    "foodNear": 31
+   }
+  },
+  {
+   "id": "way-1000607646",
+   "name": "Spiaggia del Malpasso di Rio",
+   "named": true,
+   "lat": 42.827125,
+   "lon": 10.432518,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Malpasso",
+   "osm": {
+    "type": "way",
+    "id": 1000607646,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.4,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 143 m",
+     "Parcheggio più vicino a 813 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 143,
+    "parkingDist": 813,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "node-9554492859",
+   "name": "Spiaggia del Portello",
+   "named": true,
+   "lat": 42.824641,
+   "lon": 10.431112,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Vigneria",
+   "osm": {
+    "type": "node",
+    "id": 9554492859,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 90 m",
+     "Parcheggio più vicino a 518 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 90,
+    "parkingDist": 518,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-259101276",
+   "name": "Spiaggia del Porticciolo",
+   "named": true,
+   "lat": 42.803208,
+   "lon": 10.43166,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Calabaroccia",
+   "osm": {
+    "type": "way",
+    "id": 259101276,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.7,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 97 m",
+     "Parcheggio più vicino a 981 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 97,
+    "parkingDist": 981,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-819744673",
+   "name": "Spiaggia del Relitto",
+   "named": true,
+   "lat": 42.745602,
+   "lon": 10.119689,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 819744673,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 54 m",
+     "Parcheggio a 101 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 27 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "8 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 54,
+    "parkingDist": 101,
+    "resortsNear": 1,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "node-9554352609",
+   "name": "Spiaggia del Velesio",
+   "named": true,
+   "lat": 42.866486,
+   "lon": 10.404919,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Martella",
+   "osm": {
+    "type": "node",
+    "id": 9554352609,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.1,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 193 m",
+     "Parcheggio più vicino a 1200 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 193,
+    "parkingDist": 1200,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-111542192",
+   "name": "Spiaggia dell'Ottone",
+   "named": true,
+   "lat": 42.802085,
+   "lon": 10.359915,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Magazzini",
+   "osm": {
+    "type": "way",
+    "id": 111542192,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 8.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 113 m",
+     "Parcheggio a 153 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 18 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 113,
+    "parkingDist": 153,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-32940252",
+   "name": "Spiaggia della Biodola",
+   "named": true,
+   "lat": 42.801505,
+   "lon": 10.267427,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Biodola",
+   "osm": {
+    "type": "way",
+    "id": 32940252,
+    "wikipedia": "it:Biodola"
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 96 m",
+     "Parcheggio a 187 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 42 edifici entro 250 m"
+    ],
+    "services": [
+     "5 tra bar/ristoranti/chioschi entro 400 m",
+     "6 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 96,
+    "parkingDist": 187,
+    "resortsNear": 0,
+    "foodNear": 5
+   }
+  },
+  {
+   "id": "way-1003212717",
+   "name": "Spiaggia della Calanca",
+   "named": true,
+   "lat": 42.825377,
+   "lon": 10.269469,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta di Sansone",
+   "osm": {
+    "type": "way",
+    "id": 1003212717,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 42 m",
+     "Parcheggio a 54 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 32 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "6 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 42,
+    "parkingDist": 54,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-229377244",
+   "name": "Spiaggia della Contessa",
+   "named": true,
+   "lat": 42.75613,
+   "lon": 10.297462,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Ghiaieto",
+   "osm": {
+    "type": "way",
+    "id": 229377244,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.4,
+    "beauty": 7.5,
+    "services": 5.4,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 141 m",
+     "Parcheggio più vicino a 645 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 141,
+    "parkingDist": 645,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-243031930",
+   "name": "Spiaggia della Lamaia",
+   "named": true,
+   "lat": 42.797821,
+   "lon": 10.261337,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Porticciolo",
+   "osm": {
+    "type": "way",
+    "id": 243031930,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 205 m",
+     "Parcheggio più vicino a 507 m",
+     "Raggiungibile a piedi via sentiero (~205 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 205,
+    "parkingDist": 507,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-340239947",
+   "name": "Spiaggia della Padulella",
+   "named": true,
+   "lat": 42.820191,
+   "lon": 10.316322,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Capo Bianco",
+   "osm": {
+    "type": "way",
+    "id": 340239947,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 75 m",
+     "Parcheggio a 253 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 34 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 75,
+    "parkingDist": 253,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-39140066",
+   "name": "Spiaggia della Paolina",
+   "named": true,
+   "lat": 42.788383,
+   "lon": 10.231902,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Spartaia",
+   "osm": {
+    "type": "way",
+    "id": 39140066,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 66 m",
+     "Parcheggio a 256 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 10 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 66,
+    "parkingDist": 256,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1037154326",
+   "name": "Spiaggia delle Fornacelle",
+   "named": true,
+   "lat": 42.853246,
+   "lon": 10.435045,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Le Fornacelle",
+   "osm": {
+    "type": "way",
+    "id": 1037154326,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.9,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 65 m",
+     "Parcheggio più vicino a 1307 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 15 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 65,
+    "parkingDist": 1307,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-507974653",
+   "name": "Spiaggia delle Ghiaie",
+   "named": true,
+   "lat": 42.817426,
+   "lon": 10.323412,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Le Ghiaie",
+   "osm": {
+    "type": "way",
+    "id": 507974653,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 75 m",
+     "Parcheggio a 62 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 74 edifici entro 250 m"
+    ],
+    "services": [
+     "17 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "16 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 75,
+    "parkingDist": 62,
+    "resortsNear": 0,
+    "foodNear": 17
+   }
+  },
+  {
+   "id": "way-1354286607",
+   "name": "Spiaggia dello Sbruffo",
+   "named": true,
+   "lat": 42.826769,
+   "lon": 10.262424,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Saponetta",
+   "osm": {
+    "type": "way",
+    "id": 1354286607,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.1,
+    "beauty": 6.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 187 m",
+     "Parcheggio più vicino a 600 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 2 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 187,
+    "parkingDist": 600,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-107773634",
+   "name": "Spiaggia dello Stagnone",
+   "named": true,
+   "lat": 42.729484,
+   "lon": 10.431132,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Carbonaia",
+   "osm": {
+    "type": "way",
+    "id": 107773634,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 38 m",
+     "Parcheggio più vicino a 945 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 38,
+    "parkingDist": 945,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-35411036",
+   "name": "Spiaggia di Bagnaia",
+   "named": true,
+   "lat": 42.810577,
+   "lon": 10.3628,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Bagnaia",
+   "osm": {
+    "type": "way",
+    "id": 35411036,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 61 m",
+     "Parcheggio a 60 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 76 edifici entro 250 m"
+    ],
+    "services": [
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 61,
+    "parkingDist": 60,
+    "resortsNear": 0,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "way-120135837",
+   "name": "Spiaggia di Barabarca",
+   "named": true,
+   "lat": 42.748171,
+   "lon": 10.36071,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Punta di Barabarca",
+   "osm": {
+    "type": "way",
+    "id": 120135837,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 161 m",
+     "Parcheggio a 172 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 16 edifici entro 250 m"
+    ],
+    "services": [
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 161,
+    "parkingDist": 172,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-120031318",
+   "name": "Spiaggia di Buzzancone",
+   "named": true,
+   "lat": 42.742349,
+   "lon": 10.420124,
+   "surface": "fine_gravel",
+   "surfaceLabel": "ghiaia fine",
+   "nearPlace": "Punta di Buzzancone",
+   "osm": {
+    "type": "way",
+    "id": 120031318,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 8,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 43 m",
+     "Parcheggio più vicino a 617 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia fine",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 43,
+    "parkingDist": 617,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-507976093",
+   "name": "Spiaggia di Capo Bianco",
+   "named": true,
+   "lat": 42.82056,
+   "lon": 10.313633,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Punta Capo Bianco",
+   "osm": {
+    "type": "way",
+    "id": 507976093,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7.5,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 89 m",
+     "Parcheggio a 109 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 44 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 89,
+    "parkingDist": 109,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1323456052",
+   "name": "Spiaggia di Capo Stella",
+   "named": true,
+   "lat": 42.749678,
+   "lon": 10.322286,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Magazzinetto Foresi",
+   "osm": {
+    "type": "way",
+    "id": 1323456052,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 37 m",
+     "Parcheggio a 300 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 37,
+    "parkingDist": 300,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1323456051",
+   "name": "Spiaggia di Casa Canata",
+   "named": true,
+   "lat": 42.754939,
+   "lon": 10.311983,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Lacona",
+   "osm": {
+    "type": "way",
+    "id": 1323456051,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 10,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 41 m",
+     "Parcheggio più vicino a 303 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 50 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "3 tra servizi igienici/acqua potabile entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 41,
+    "parkingDist": 303,
+    "resortsNear": 1,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "way-183145358",
+   "name": "Spiaggia di Cavo",
+   "named": true,
+   "lat": 42.86233,
+   "lon": 10.420906,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Cavo",
+   "osm": {
+    "type": "way",
+    "id": 183145358,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 54 m",
+     "Parcheggio a 105 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 41 edifici entro 250 m"
+    ],
+    "services": [
+     "4 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 54,
+    "parkingDist": 105,
+    "resortsNear": 0,
+    "foodNear": 4
+   }
+  },
+  {
+   "id": "way-418264925",
+   "name": "Spiaggia di Cavo",
+   "named": true,
+   "lat": 42.858066,
+   "lon": 10.424514,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Cavo",
+   "osm": {
+    "type": "way",
+    "id": 418264925,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 8.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 48 m",
+     "Parcheggio più vicino a 434 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 34 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 48,
+    "parkingDist": 434,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-69218162",
+   "name": "Spiaggia di Cavoli",
+   "named": true,
+   "lat": 42.736868,
+   "lon": 10.186758,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Cavoli",
+   "osm": {
+    "type": "way",
+    "id": 69218162,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 58 m",
+     "Parcheggio a 75 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 34 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "10 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 58,
+    "parkingDist": 75,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-419032165",
+   "name": "Spiaggia di Cavoli",
+   "named": true,
+   "lat": 42.737088,
+   "lon": 10.184108,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Cavoli",
+   "osm": {
+    "type": "way",
+    "id": 419032165,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 54 m",
+     "Parcheggio a 46 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 18 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "10 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 54,
+    "parkingDist": 46,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-340249509",
+   "name": "Spiaggia di Felciaio",
+   "named": true,
+   "lat": 42.762777,
+   "lon": 10.348556,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Norsi",
+   "osm": {
+    "type": "way",
+    "id": 340249509,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 77 m",
+     "Parcheggio a 275 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 5 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 77,
+    "parkingDist": 275,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-38057814",
+   "name": "Spiaggia di Fetovaia",
+   "named": true,
+   "lat": 42.732691,
+   "lon": 10.153587,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Fetovaia",
+   "osm": {
+    "type": "way",
+    "id": 38057814,
+    "wikipedia": "it:Spiaggia di Fetovaia"
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 8.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 85 m",
+     "Parcheggio a 107 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 28 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 85,
+    "parkingDist": 107,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  },
+  {
+   "id": "way-502343000",
+   "name": "Spiaggia di Fonza",
+   "named": true,
+   "lat": 42.745222,
+   "lon": 10.264296,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta di Nercio",
+   "osm": {
+    "type": "way",
+    "id": 502343000,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 26 m",
+     "Parcheggio più vicino a 1442 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 13 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 26,
+    "parkingDist": 1442,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-243031929",
+   "name": "Spiaggia di Forno",
+   "named": true,
+   "lat": 42.807636,
+   "lon": 10.267732,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Forno",
+   "osm": {
+    "type": "way",
+    "id": 243031929,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 8.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 55 m",
+     "Parcheggio a 200 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 57 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 55,
+    "parkingDist": 200,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-102555315",
+   "name": "Spiaggia di Frugoso",
+   "named": true,
+   "lat": 42.869921,
+   "lon": 10.41668,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Capo Vita",
+   "osm": {
+    "type": "way",
+    "id": 102555315,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 207 m",
+     "Parcheggio più vicino a 433 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 207,
+    "parkingDist": 433,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-418309121",
+   "name": "Spiaggia di Gennaro",
+   "named": true,
+   "lat": 42.811368,
+   "lon": 10.429449,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta dell'Acqua dolce",
+   "osm": {
+    "type": "way",
+    "id": 418309121,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 6.2,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 48 m",
+     "Parcheggio a 64 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 43 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 48,
+    "parkingDist": 64,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-117125408",
+   "name": "Spiaggia di Lacona",
+   "named": true,
+   "lat": 42.758447,
+   "lon": 10.306158,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Lacona",
+   "osm": {
+    "type": "way",
+    "id": 117125408,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 7.9,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 205 m",
+     "Parcheggio più vicino a 352 m",
+     "Raggiungibile a piedi via sentiero (~205 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 205,
+    "parkingDist": 352,
+    "resortsNear": 1,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1322368990",
+   "name": "Spiaggia di Laconella",
+   "named": true,
+   "lat": 42.756691,
+   "lon": 10.296127,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Ghiaieto",
+   "osm": {
+    "type": "way",
+    "id": 1322368990,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 5.4,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 21 m",
+     "Parcheggio più vicino a 621 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 21,
+    "parkingDist": 621,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-120031277",
+   "name": "Spiaggia di Malpasso",
+   "named": true,
+   "lat": 42.743918,
+   "lon": 10.411024,
+   "surface": "fine_gravel",
+   "surfaceLabel": "ghiaia fine",
+   "nearPlace": "Punta di Calanova",
+   "osm": {
+    "type": "way",
+    "id": 120031277,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 8,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 66 m",
+     "Parcheggio a 125 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia fine",
+     "Contesto naturale: 5 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 66,
+    "parkingDist": 125,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-102444981",
+   "name": "Spiaggia di Marina Di Campo",
+   "named": true,
+   "lat": 42.747015,
+   "lon": 10.240118,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Marina di Campo",
+   "osm": {
+    "type": "way",
+    "id": 102444981,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.8,
+    "beauty": 10,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 239 m",
+     "Parcheggio più vicino a 474 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 239,
+    "parkingDist": 474,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-71226455",
+   "name": "Spiaggia di Mola",
+   "named": true,
+   "lat": 42.760743,
+   "lon": 10.386398,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Mola",
+   "osm": {
+    "type": "way",
+    "id": 71226455,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 36 m",
+     "Parcheggio a 237 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 28 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 36,
+    "parkingDist": 237,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-1361660602",
+   "name": "Spiaggia di Nisportino",
+   "named": true,
+   "lat": 42.833564,
+   "lon": 10.385668,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Nisportino",
+   "osm": {
+    "type": "way",
+    "id": 1361660602,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.6,
+    "beauty": 5.5,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 107 m",
+     "Parcheggio più vicino a 952 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 45 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 107,
+    "parkingDist": 952,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "relation-9655953",
+   "name": "Spiaggia di Nisporto",
+   "named": true,
+   "lat": 42.825927,
+   "lon": 10.378534,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Nisporto",
+   "osm": {
+    "type": "relation",
+    "id": 9655953,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 8.5,
+    "services": 8.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 65 m",
+     "Parcheggio a 74 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 40 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 65,
+    "parkingDist": 74,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-182029380",
+   "name": "Spiaggia di Norsi",
+   "named": true,
+   "lat": 42.764035,
+   "lon": 10.342325,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Norsi",
+   "osm": {
+    "type": "way",
+    "id": 182029380,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 65 m",
+     "Parcheggio a 136 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 18 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 65,
+    "parkingDist": 136,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-121086735",
+   "name": "Spiaggia di Ortano",
+   "named": true,
+   "lat": 42.79401,
+   "lon": 10.429655,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Ortano",
+   "osm": {
+    "type": "way",
+    "id": 121086735,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7.5,
+    "services": 7.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 65 m",
+     "Parcheggio a 202 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 7 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 65,
+    "parkingDist": 202,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-340249866",
+   "name": "Spiaggia di Peducelli",
+   "named": true,
+   "lat": 42.735736,
+   "lon": 10.368388,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Peducelli",
+   "osm": {
+    "type": "way",
+    "id": 340249866,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 37 m",
+     "Parcheggio a 225 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 28 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 37,
+    "parkingDist": 225,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-183016826",
+   "name": "Spiaggia di Pomonte",
+   "named": true,
+   "lat": 42.746724,
+   "lon": 10.118769,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Pomonte",
+   "osm": {
+    "type": "way",
+    "id": 183016826,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 10,
+    "free": 7.5
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 19 m",
+     "Parcheggio a 37 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 49 edifici entro 250 m"
+    ],
+    "services": [
+     "1 stabilimento balneari (lettini/ombrelloni) entro 400 m",
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "12 parcheggi entro 400 m"
+    ],
+    "free": [
+     "1 stabilimento balneari vicini"
+    ]
+   },
+   "meta": {
+    "roadDist": 19,
+    "parkingDist": 37,
+    "resortsNear": 1,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "way-1000607647",
+   "name": "Spiaggia di Ripabianca",
+   "named": true,
+   "lat": 42.831093,
+   "lon": 10.434656,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Ripabianca",
+   "osm": {
+    "type": "way",
+    "id": 1000607647,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 84 m",
+     "Parcheggio più vicino a 1081 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 84,
+    "parkingDist": 1081,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1077379700",
+   "name": "Spiaggia di Sant' Andrea",
+   "named": true,
+   "lat": 42.807363,
+   "lon": 10.141157,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Sant'Andrea",
+   "osm": {
+    "type": "way",
+    "id": 1077379700,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 30 m",
+     "Parcheggio a 80 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 60 edifici entro 250 m"
+    ],
+    "services": [
+     "5 tra bar/ristoranti/chioschi entro 400 m",
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 30,
+    "parkingDist": 80,
+    "resortsNear": 0,
+    "foodNear": 5
+   }
+  },
+  {
+   "id": "way-185017371",
+   "name": "Spiaggia di Scaglieri",
+   "named": true,
+   "lat": 42.804422,
+   "lon": 10.269614,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Scaglieri",
+   "osm": {
+    "type": "way",
+    "id": 185017371,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 10,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 27 m",
+     "Parcheggio a 22 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 118 edifici entro 250 m"
+    ],
+    "services": [
+     "5 tra bar/ristoranti/chioschi entro 400 m",
+     "8 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 27,
+    "parkingDist": 22,
+    "resortsNear": 0,
+    "foodNear": 5
+   }
+  },
+  {
+   "id": "relation-11379945",
+   "name": "Spiaggia di Sottobomba",
+   "named": true,
+   "lat": 42.81908,
+   "lon": 10.304959,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Capo Bianco",
+   "osm": {
+    "type": "relation",
+    "id": 11379945,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 6.5,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 138 m",
+     "Parcheggio a 168 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 11 edifici entro 250 m"
+    ],
+    "services": [
+     "5 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 138,
+    "parkingDist": 168,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-340249511",
+   "name": "Spiaggia di Stecchi",
+   "named": true,
+   "lat": 42.744103,
+   "lon": 10.363221,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Badisugarello",
+   "osm": {
+    "type": "way",
+    "id": 340249511,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 35 m",
+     "Parcheggio più vicino a 496 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 21 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 35,
+    "parkingDist": 496,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1354202118",
+   "name": "Spiaggia di Terranera",
+   "named": true,
+   "lat": 42.77373,
+   "lon": 10.419643,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Il Palazzo",
+   "osm": {
+    "type": "way",
+    "id": 1354202118,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.3,
+    "beauty": 6.5,
+    "services": 4.6,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 156 m",
+     "Parcheggio più vicino a 329 m"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto naturale: 3 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 156,
+    "parkingDist": 329,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-819758276",
+   "name": "Spiaggia Hotel Elba",
+   "named": true,
+   "lat": 42.75725,
+   "lon": 10.396707,
+   "surface": "paved",
+   "surfaceLabel": "paved",
+   "nearPlace": "La Fontanella",
+   "osm": {
+    "type": "way",
+    "id": 819758276,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 5.5,
+    "services": 9.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 25 m",
+     "Parcheggio a 185 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: paved",
+     "Contesto urbanizzato: 19 edifici entro 250 m"
+    ],
+    "services": [
+     "4 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 25,
+    "parkingDist": 185,
+    "resortsNear": 0,
+    "foodNear": 4
+   }
+  },
+  {
+   "id": "way-1077655303",
+   "name": "Spiaggia La Cala",
+   "named": true,
+   "lat": 42.805986,
+   "lon": 10.169938,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta della Gioma",
+   "osm": {
+    "type": "way",
+    "id": 1077655303,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 7,
+    "beauty": 7,
+    "services": 2.9,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 367 m",
+     "Parcheggio più vicino a 367 m",
+     "Raggiungibile a piedi via sentiero (~367 m di cammino)",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 21 edifici entro 250 m"
+    ],
+    "services": [
+     "1 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 367,
+    "parkingDist": 367,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-65200939",
+   "name": "Spiaggia La Sorgente",
+   "named": true,
+   "lat": 42.823311,
+   "lon": 10.282225,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Acquaviva",
+   "osm": {
+    "type": "way",
+    "id": 65200939,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 8.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 98 m",
+     "Parcheggio a 215 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 17 edifici entro 250 m"
+    ],
+    "services": [
+     "6 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 98,
+    "parkingDist": 215,
+    "resortsNear": 0,
+    "foodNear": 6
+   }
+  },
+  {
+   "id": "way-418306619",
+   "name": "Spiaggia La Torre",
+   "named": true,
+   "lat": 42.814406,
+   "lon": 10.429768,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Rio Marina",
+   "osm": {
+    "type": "way",
+    "id": 418306619,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 27 m",
+     "Parcheggio a 214 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 68 edifici entro 250 m"
+    ],
+    "services": [
+     "18 tra bar/ristoranti/chioschi entro 400 m",
+     "2 tra servizi igienici/acqua potabile entro 400 m",
+     "10 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 27,
+    "parkingDist": 214,
+    "resortsNear": 0,
+    "foodNear": 18
+   }
+  },
+  {
+   "id": "way-1354219555",
+   "name": "Spiaggia Le Calle",
+   "named": true,
+   "lat": 42.732573,
+   "lon": 10.165873,
+   "surface": "rock",
+   "surfaceLabel": "roccia",
+   "nearPlace": "Punta di Fetovaia",
+   "osm": {
+    "type": "way",
+    "id": 1354219555,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 4,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 48 m",
+     "Parcheggio a 50 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: roccia",
+     "Contesto urbanizzato: 12 edifici entro 250 m"
+    ],
+    "services": [
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 48,
+    "parkingDist": 50,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "node-7680130085",
+   "name": "Spiaggia Le Piscine",
+   "named": true,
+   "lat": 42.733629,
+   "lon": 10.170413,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Seccheto",
+   "osm": {
+    "type": "node",
+    "id": 7680130085,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 6,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 71 m",
+     "Parcheggio a 81 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto naturale: 0 edifici entro 250 m"
+    ],
+    "services": [
+     "4 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 71,
+    "parkingDist": 81,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-259101282",
+   "name": "Spiaggia Luisi d'Angelo",
+   "named": true,
+   "lat": 42.805935,
+   "lon": 10.429467,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Calabaroccia",
+   "osm": {
+    "type": "way",
+    "id": 259101282,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.7,
+    "beauty": 5.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 97 m",
+     "Parcheggio più vicino a 653 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 24 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 97,
+    "parkingDist": 653,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-202062137",
+   "name": "Spiaggia naturista Le Tombe",
+   "named": true,
+   "lat": 42.735573,
+   "lon": 10.133178,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta le Tombe",
+   "osm": {
+    "type": "way",
+    "id": 202062137,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.5,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 287 m",
+     "Parcheggio più vicino a 519 m",
+     "Raggiungibile a piedi via sentiero (~287 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto selvaggio: pochissimi edifici e lontana dalle strade"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 287,
+    "parkingDist": 519,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-214010585",
+   "name": "Spiaggia Polveraia",
+   "named": true,
+   "lat": 42.795104,
+   "lon": 10.113947,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "La Guardia",
+   "osm": {
+    "type": "way",
+    "id": 214010585,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 7,
+    "services": 5.8,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 109 m",
+     "Parcheggio a 293 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 21 edifici entro 250 m"
+    ],
+    "services": [
+     "1 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze",
+     "Accesso pubblico segnalato su OSM"
+    ]
+   },
+   "meta": {
+    "roadDist": 109,
+    "parkingDist": 293,
+    "resortsNear": 0,
+    "foodNear": 1
+   }
+  },
+  {
+   "id": "way-849576187",
+   "name": "Spiaggia Remontó",
+   "named": true,
+   "lat": 42.802056,
+   "lon": 10.21145,
+   "surface": "gravel",
+   "surfaceLabel": "ghiaia",
+   "nearPlace": "Punta Schioppo",
+   "osm": {
+    "type": "way",
+    "id": 849576187,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 8.7,
+    "beauty": 6,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 101 m",
+     "Parcheggio più vicino a 848 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ghiaia",
+     "Contesto urbanizzato: 12 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 101,
+    "parkingDist": 848,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-1077636028",
+   "name": "Spiaggia Ripa Barata",
+   "named": true,
+   "lat": 42.807798,
+   "lon": 10.178856,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta della Madonna",
+   "osm": {
+    "type": "way",
+    "id": 1077636028,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.1,
+    "beauty": 7.5,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 202 m",
+     "Parcheggio più vicino a 1121 m",
+     "Raggiungibile a piedi via sentiero (~202 m di cammino)"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto naturale: 1 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 202,
+    "parkingDist": 1121,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-65200942",
+   "name": "Spiaggia Sansone",
+   "named": true,
+   "lat": 42.82276,
+   "lon": 10.279319,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Acquaviva",
+   "osm": {
+    "type": "way",
+    "id": 65200942,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 8.5,
+    "services": 10,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 86 m",
+     "Parcheggio a 118 m"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 9 edifici entro 250 m"
+    ],
+    "services": [
+     "5 tra bar/ristoranti/chioschi entro 400 m",
+     "1 tra servizi igienici/acqua potabile entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 86,
+    "parkingDist": 118,
+    "resortsNear": 0,
+    "foodNear": 5
+   }
+  },
+  {
+   "id": "way-1169675867",
+   "name": "Spiaggia Seccione",
+   "named": true,
+   "lat": 42.818734,
+   "lon": 10.296172,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Acquaviva",
+   "osm": {
+    "type": "way",
+    "id": 1169675867,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9.8,
+    "beauty": 7,
+    "services": 0,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 89 m",
+     "Parcheggio più vicino a 591 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Notorietà: presente su Wikipedia/Wikidata",
+     "Contesto urbanizzato: 26 edifici entro 250 m"
+    ],
+    "services": [
+     "Nessun servizio mappato entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 89,
+    "parkingDist": 591,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "way-182255775",
+   "name": "Spiaggia Zuccale",
+   "named": true,
+   "lat": 42.751101,
+   "lon": 10.359173,
+   "surface": null,
+   "surfaceLabel": null,
+   "nearPlace": "Punta Zuccale",
+   "osm": {
+    "type": "way",
+    "id": 182255775,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 5.5,
+    "services": 4.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 158 m",
+     "Parcheggio a 138 m"
+    ],
+    "beauty": [
+     "Fondo non mappato su OSM",
+     "Contesto urbanizzato: 14 edifici entro 250 m"
+    ],
+    "services": [
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 158,
+    "parkingDist": 138,
+    "resortsNear": 0,
+    "foodNear": 0
+   }
+  },
+  {
+   "id": "relation-15883624",
+   "name": "Spiaggietta Carmignani",
+   "named": true,
+   "lat": 42.763415,
+   "lon": 10.402875,
+   "surface": "pebblestone",
+   "surfaceLabel": "ciottoli",
+   "nearPlace": "Punta dello Stendardo",
+   "osm": {
+    "type": "relation",
+    "id": 15883624,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 9,
+    "beauty": 7,
+    "services": 8.7,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 57 m",
+     "Parcheggio a 240 m",
+     "Presenza di scalinate nell'accesso"
+    ],
+    "beauty": [
+     "Fondo: ciottoli",
+     "Contesto urbanizzato: 30 edifici entro 250 m"
+    ],
+    "services": [
+     "3 tra bar/ristoranti/chioschi entro 400 m",
+     "3 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 57,
+    "parkingDist": 240,
+    "resortsNear": 0,
+    "foodNear": 3
+   }
+  },
+  {
+   "id": "way-107773632",
+   "name": "Straccoligno",
+   "named": true,
+   "lat": 42.748153,
+   "lon": 10.406324,
+   "surface": "sand",
+   "surfaceLabel": "sabbia",
+   "nearPlace": "Punta Liscolino",
+   "osm": {
+    "type": "way",
+    "id": 107773632,
+    "wikipedia": null
+   },
+   "scores": {
+    "access": 10,
+    "beauty": 10,
+    "services": 7.1,
+    "free": 10
+   },
+   "factors": {
+    "access": [
+     "Strada carrabile a 26 m",
+     "Parcheggio a 118 m"
+    ],
+    "beauty": [
+     "Fondo: sabbia",
+     "Contesto urbanizzato: 43 edifici entro 250 m"
+    ],
+    "services": [
+     "2 tra bar/ristoranti/chioschi entro 400 m",
+     "2 parcheggi entro 400 m"
+    ],
+    "free": [
+     "Nessuno stabilimento balneare mappato nelle vicinanze"
+    ]
+   },
+   "meta": {
+    "roadDist": 26,
+    "parkingDist": 118,
+    "resortsNear": 0,
+    "foodNear": 2
+   }
+  }
+ ]
+}
