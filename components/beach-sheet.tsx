@@ -3,7 +3,16 @@
 import { useState } from "react"
 import { ChevronDown, MapPin, Info, X } from "lucide-react"
 import { Drawer, DrawerContent, DrawerTitle, DrawerDescription } from "@/components/ui/drawer"
-import { type Beach, type ScoreKey, SCORE_LABELS, SCORE_ORDER, scoreBgClass, scoreColorClass } from "@/lib/scoring"
+import {
+  type Beach,
+  type ScoreKey,
+  SCORE_LABELS,
+  SCORE_ORDER,
+  SCORE_TIERS,
+  scoreBgClass,
+  scoreColorClass,
+  scoreTierLabel,
+} from "@/lib/scoring"
 import { BeachWeatherPanel } from "@/components/beach-weather"
 import { cn } from "@/lib/utils"
 
@@ -45,18 +54,43 @@ function SheetBody({ beach, onClose }: { beach: Beach; onClose: () => void }) {
         </button>
       </div>
 
+      {/* Quick facts derived from OSM geometry */}
+      <div className="mt-4 flex flex-wrap gap-1.5">
+        {beach.lengthM != null && beach.lengthM > 0 && (
+          <Fact>{beach.lengthM >= 1000 ? `${(beach.lengthM / 1000).toFixed(1)} km` : `${beach.lengthM} m`} di costa</Fact>
+        )}
+        <Fact>Esposta a {beach.exposure.label}</Fact>
+        {beach.meta.parkingDist != null && <Fact>Parcheggio a {formatDist(beach.meta.parkingDist)}</Fact>}
+        {beach.meta.resortsNear > 0 && <Fact>{beach.meta.resortsNear} stabilimenti</Fact>}
+        {beach.meta.foodNear > 0 && <Fact>{beach.meta.foodNear} bar/ristoranti</Fact>}
+      </div>
+
       {/* Scores */}
-      <div className="mt-5 flex flex-col gap-2">
+      <div className="mt-4 flex flex-col gap-2">
         {SCORE_ORDER.map((key) => (
           <ScoreRow key={key} scoreKey={key} beach={beach} />
         ))}
       </div>
 
+      {/* Tier legend */}
+      <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1.5 rounded-2xl bg-muted/60 px-3.5 py-2.5 text-[11px] text-muted-foreground">
+        {SCORE_TIERS.map((t) => (
+          <span key={t.tier} className="flex items-center gap-1.5">
+            <span className={cn("size-2.5 rounded-full", `bg-score-${t.tier}`)} aria-hidden="true" />
+            {t.range} {t.label.toLowerCase()}
+          </span>
+        ))}
+      </div>
+
       {/* Weather */}
       <h3 className="mb-3 mt-6 text-sm font-semibold uppercase tracking-wide text-muted-foreground">
-        Meteo in tempo reale
+        Meteo e mare in tempo reale
       </h3>
-      <BeachWeatherPanel lat={beach.lat} lon={beach.lon} />
+      <BeachWeatherPanel
+        lat={beach.lat}
+        lon={beach.lon}
+        exposureBearing={beach.exposure?.bearing ?? null}
+      />
 
       <p className="mt-5 text-center text-[11px] leading-relaxed text-muted-foreground">
         Dati spiaggia: © OpenStreetMap contributors · Meteo: Open-Meteo
@@ -65,6 +99,18 @@ function SheetBody({ beach, onClose }: { beach: Beach; onClose: () => void }) {
       </p>
     </div>
   )
+}
+
+function Fact({ children }: { children: React.ReactNode }) {
+  return (
+    <span className="rounded-full bg-secondary px-2.5 py-1 text-[11px] font-medium text-secondary-foreground">
+      {children}
+    </span>
+  )
+}
+
+function formatDist(m: number): string {
+  return m >= 1000 ? `${(m / 1000).toFixed(1)} km` : `${Math.round(m)} m`
 }
 
 function ScoreRow({ scoreKey, beach }: { scoreKey: ScoreKey; beach: Beach }) {
@@ -85,7 +131,10 @@ function ScoreRow({ scoreKey, beach }: { scoreKey: ScoreKey; beach: Beach }) {
         <div className="min-w-0 flex-1">
           <div className="flex items-center justify-between gap-2">
             <span className="text-sm font-semibold">{info.label}</span>
-            <span className={cn("text-sm font-bold tabular-nums", scoreColorClass(score))}>{score.toFixed(1)}</span>
+            <span className={cn("flex items-baseline gap-1.5 text-sm font-bold", scoreColorClass(score))}>
+              <span className="text-[11px] font-semibold uppercase tracking-wide">{scoreTierLabel(score)}</span>
+              <span className="tabular-nums">{score.toFixed(1)}</span>
+            </span>
           </div>
           <div className="mt-1.5 h-1.5 w-full overflow-hidden rounded-full bg-border">
             <div

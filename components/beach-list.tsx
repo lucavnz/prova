@@ -1,7 +1,15 @@
 "use client"
 
 import { MapPin, ChevronRight } from "lucide-react"
-import { type Beach, type ScoreKey, SCORE_LABELS, scoreColorClass, scoreBgClass } from "@/lib/scoring"
+import {
+  type Beach,
+  type ScoreKey,
+  SCORE_LABELS,
+  scoreColorClass,
+  scoreBgClass,
+  scoreTier,
+  scoreTierLabel,
+} from "@/lib/scoring"
 import { cn } from "@/lib/utils"
 
 type Props = {
@@ -29,10 +37,11 @@ export function BeachList({ beaches, activeScore, onSelect }: Props) {
           >
             <span
               className={cn(
-                "flex size-11 shrink-0 items-center justify-center rounded-xl text-sm font-bold text-white",
+                "flex size-11 shrink-0 flex-col items-center justify-center rounded-xl text-sm font-bold",
                 scoreBgClass(score),
+                scoreTier(score) === "mid" ? "text-background" : "text-primary-foreground",
               )}
-              aria-label={`Punteggio ${score.toFixed(1)} su 10`}
+              aria-label={`${SCORE_LABELS[activeScore].label}: ${score.toFixed(1)} su 10, ${scoreTierLabel(score).toLowerCase()}`}
             >
               {score.toFixed(1)}
             </span>

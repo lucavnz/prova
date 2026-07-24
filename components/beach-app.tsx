@@ -3,7 +3,14 @@
 import { useMemo, useState } from "react"
 import dynamic from "next/dynamic"
 import { Search, List, Map as MapIcon, Waves, X } from "lucide-react"
-import { type Beach, type BeachDataset, type ScoreKey, SCORE_LABELS, SCORE_ORDER } from "@/lib/scoring"
+import {
+  type Beach,
+  type BeachDataset,
+  type ScoreKey,
+  SCORE_LABELS,
+  SCORE_ORDER,
+  SCORE_TIERS,
+} from "@/lib/scoring"
 import { BeachSheet } from "@/components/beach-sheet"
 import { BeachList } from "@/components/beach-list"
 import { cn } from "@/lib/utils"
@@ -136,17 +143,14 @@ export function BeachApp({ dataset }: { dataset: BeachDataset }) {
 
       {/* Legend (map view only) */}
       {view === "map" && (
-        <div className="pointer-events-none absolute bottom-[calc(env(safe-area-inset-bottom)+14px)] left-3 z-10 flex items-center gap-2 rounded-full border border-border/60 bg-card/85 px-3 py-1.5 text-[11px] font-medium shadow-lg backdrop-blur-xl">
-          <span className="flex items-center gap-1">
-            <span className="size-2.5 rounded-full bg-score-low" aria-hidden="true" /> 0
-          </span>
-          <span className="flex items-center gap-1">
-            <span className="size-2.5 rounded-full bg-score-mid" aria-hidden="true" /> 5
-          </span>
-          <span className="flex items-center gap-1">
-            <span className="size-2.5 rounded-full bg-score-high" aria-hidden="true" /> 10
-          </span>
-          <span className="text-muted-foreground">{SCORE_LABELS[activeScore].short}</span>
+        <div className="pointer-events-none absolute bottom-[calc(env(safe-area-inset-bottom)+14px)] left-3 right-3 z-10 flex flex-wrap items-center gap-x-2.5 gap-y-1 rounded-2xl border border-border/60 bg-card/85 px-3 py-2 text-[11px] font-medium shadow-lg backdrop-blur-xl">
+          <span className="text-muted-foreground">{SCORE_LABELS[activeScore].short}:</span>
+          {SCORE_TIERS.map((t) => (
+            <span key={t.tier} className="flex items-center gap-1">
+              <span className={cn("size-2.5 rounded-full", `bg-score-${t.tier}`)} aria-hidden="true" />
+              {t.range}
+            </span>
+          ))}
         </div>
       )}
 
